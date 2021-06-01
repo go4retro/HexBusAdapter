@@ -1,5 +1,7 @@
 # Texas Instruments HexBus <-> DockBus Adapter
 
+![HexBusAdapter PCB](pcb/HexBusAdapter%20PCB.png)
+
 This is a simple passive adapter PCB designed from the technical note "USING CC-40 PERIPHERALS WITH THE TI-74" by Maurice Swinnen found at this URL: https://ftp.whtech.com/hexbus_cc40_ti74/cc40%20ti74%20hexbus.txt. There is no specific nuance in this adapter, so feel free to mix it up as desired.
 
 ## Design License
